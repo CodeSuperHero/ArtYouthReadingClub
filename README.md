@@ -1,4 +1,2 @@
 #reading club
-## Fundamentals of Computer Graphi
-#### xxxx
-##### aaa
+ 1. Fundamentals of Computer Graphi
