@@ -1,2 +1,2 @@
-# FundamentalsOfComputerGraphi
-reading notes
+#reading club
+## Fundamentals of Computer Graphi
