@@ -1,0 +1,2 @@
+# FundamentalsOfComputerGraphi
+reading notes
