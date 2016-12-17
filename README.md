@@ -1,7 +1,10 @@
-# Reading Club
+## Reading Club
+
 > Love is ever the beginning of knowledge as fire is of light. _Thomas Carlyle_
+
 ### Book List
  1. [Fundamentals of Computer Graphics](https://github.com/CodeSuperHero/ArtYouthReadingClub/tree/master/FundamentalsOfComputerGraphi)
+
 ### Rule
  1. 任何人都可以组织一本书的阅读。
  2. 任何人都可以参与一本书的阅读。
