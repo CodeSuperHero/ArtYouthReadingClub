@@ -37,4 +37,4 @@ https://github.com/CodeSuperHero/ArtYouthReadingClub/blob/master/FundamentalsOfC
 https://raw.githubusercontent.com/CodeSuperHero/ArtYouthReadingClub/master/FundamentalsOfComputerGraphi/_Refrences/Images/Figure_2_7.png
 主要是修改前面部分: "https://github.com/" -> "https://raw.githubusercontent.com/"
 4. 在markdown中引用 ``` ![describe info]url```;
-5. 就可以在编辑器和github上面查看到相应的图片啦！
+5.效果![Figure_2_7](https://raw.githubusercontent.com/CodeSuperHero/ArtYouthReadingClub/master/FundamentalsOfComputerGraphi/_Refrences/Images/Figure_2_7.png)
