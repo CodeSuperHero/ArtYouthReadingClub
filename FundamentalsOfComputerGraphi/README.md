@@ -36,5 +36,5 @@ https://github.com/CodeSuperHero/ArtYouthReadingClub/blob/master/FundamentalsOfC
 3. 修改url链接为:
 https://raw.githubusercontent.com/CodeSuperHero/ArtYouthReadingClub/master/FundamentalsOfComputerGraphi/_Refrences/Images/Figure_2_7.png
 主要是修改前面部分: "https://github.com/" -> "https://raw.githubusercontent.com/"
-4. 在markdown中引用 ``` ![describe info]url```;
-5.效果![Figure_2_7](https://raw.githubusercontent.com/CodeSuperHero/ArtYouthReadingClub/master/FundamentalsOfComputerGraphi/_Refrences/Images/Figure_2_7.png)
+4. 在markdown中引用 ``` ![describe info]url```
+5. 效果![Figure_2_7](https://raw.githubusercontent.com/CodeSuperHero/ArtYouthReadingClub/master/FundamentalsOfComputerGraphi/_Refrences/Images/Figure_2_7.png)
